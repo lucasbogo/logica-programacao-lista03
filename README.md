@@ -18,7 +18,6 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 <br>
 
 5. Ler os coeficientes a, b e c de uma equação de segundo grau e calcular o delta. Mostrar o valor de delta e se o delta for negativo, a mensagem “A equação não tem solução real”. Regra:
-
 ```Δ = b 2 – 4 a c```
 <br>
 6. Uma empresa deseja aumentar o salário de seus funcionários de acordo com a tabela abaixo:
