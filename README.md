@@ -34,9 +34,9 @@ acima de R$ 1.800,00         --
 
 7. Ler os dados de um triângulo e mostrar o seu tipo: equilátero, escaleno ou isósceles. Dica: Triângulo é uma forma geométrica composta por três lados, onde cada lado é menor que a soma dos outros lados.
 <ol>
-  <li> Equilátero: 3 lados iguais
-  <li> Isósceles: 2 lados iguais e 1 diferente
-  <li> Escaleno: 3 lados diferentes
+  <li> **Equilátero**: 3 lados iguais
+  <li> **Isósceles**: 2 lados iguais e 1 diferente
+  <li> **Escaleno**: 3 lados diferentes
 </ol>
 <br>
  
