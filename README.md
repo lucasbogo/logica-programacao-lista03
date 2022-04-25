@@ -14,7 +14,7 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 3. Faça um programa para ler um número inteiro e verificar se o número for maior que 10 e menor que 100, imprimir a mensagem: **“Número está entre 10 e 100 – intervalo permitido”**
 <br>
 
-4. Ler o estado civil de uma pessoa no formato caractere **[S / C / D / V]** e mostrar uma mensagem dizendo se é solteiro, casado, divorciado ou viúvo.
+4. Ler o estado civil de uma pessoa no formato caractere ```[S / C / D / V]``` e mostrar uma mensagem dizendo se é solteiro, casado, divorciado ou viúvo.
 <br>
 
 5. Ler os coeficientes a, b e c de uma equação de segundo grau e calcular o delta. Mostrar o valor de delta e se o delta for negativo, a mensagem **“A equação não tem solução real”**. Regra:
