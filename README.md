@@ -36,4 +36,5 @@ acima de R$ 1.800,00         --
   <li> Escaleno: 3 lados diferentes
 <ol>
 <br>
+ 
 8. Ler o sexo, o peso e a altura de uma pessoa. Calcular e mostrar seu índice de massa corpórea I.M.C (= peso / altura2). Mostrar o resultado de acordo com a tabela a seguir:
