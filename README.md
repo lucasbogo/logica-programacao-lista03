@@ -20,7 +20,9 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 5. Ler os coeficientes a, b e c de uma equação de segundo grau e calcular o delta. Mostrar o valor de delta e se o delta for negativo, a mensagem “A equação não tem solução real”. Regra:
 ```Δ = b 2 – 4 a c```
 <br>
+
 6. Uma empresa deseja aumentar o salário de seus funcionários de acordo com a tabela abaixo:
+
 ```
 Salário atual              Aumento
 R$ 0,00 – R$ 900,00          20%
@@ -29,12 +31,13 @@ R$ 1.300,01 – R$ 1.800,00    5%
 acima de R$ 1.800,00         --
 ````
 <br>
+
 7. Ler os dados de um triângulo e mostrar o seu tipo: equilátero, escaleno ou isósceles. Dica: Triângulo é uma forma geométrica composta por três lados, onde cada lado é menor que a soma dos outros lados.
 <ol>
   <li> Equilátero: 3 lados iguais
   <li> Isósceles: 2 lados iguais e 1 diferente
   <li> Escaleno: 3 lados diferentes
-<ol>
+</ol>
 <br>
  
 8. Ler o sexo, o peso e a altura de uma pessoa. Calcular e mostrar seu índice de massa corpórea I.M.C (= peso / altura2). Mostrar o resultado de acordo com a tabela a seguir:
