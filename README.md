@@ -40,7 +40,7 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
     </ol>
 <br>
  
-8. Ler o sexo, o peso e a altura de uma pessoa. Calcular e mostrar seu índice de massa corpórea **I.M.C (= peso / altura2)**. Mostrar o resultado de acordo com a tabela a seguir:
+8. Ler o sexo, o peso e a altura de uma pessoa. Calcular e mostrar seu índice de massa corpórea ```I.M.C (= peso / altura2)```. Mostrar o resultado de acordo com a tabela a seguir:
 
 | Descrição          | Mulher    | Homem     |
 |--------------------|-----------|-----------|
@@ -49,4 +49,10 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 | Obesidade leve     | 24 - 28,9 | 25 - 29,9 |
 | Obesidade moderada | 29 - 38,9 | 30 - 39,9 |
 | Obesidade mórbida  | >=39      | >=40      |
+<br>
+
+9. Ler um número e mostrar a raiz quadrada do número caso ele seja positivo e o número elevado ao quadrado caso ele seja negativo.
+<br>
+
+10. Faça um programa que lê um número inteiro de 3 dígitos e imprima se o algarismo da casa das centenas é par ou ímpar.
 
