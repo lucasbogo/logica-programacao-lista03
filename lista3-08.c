@@ -45,7 +45,7 @@ int main()
             }
                     if(sexo == 'M'){
 		
-		                if(imc<20){
+		        if(imc<20){
                         printf("Abaixo do peso");
                         }
             
