@@ -41,3 +41,12 @@ acima de R$ 1.800,00         --
 <br>
  
 8. Ler o sexo, o peso e a altura de uma pessoa. Calcular e mostrar seu índice de massa corpórea **I.M.C (= peso / altura2)**. Mostrar o resultado de acordo com a tabela a seguir:
+```
+| Descrição          | Mulher    | Homem     |
+|--------------------|-----------|-----------|
+| Abaixo do peso     | < 19      | < 20      |
+| Normal             | 19 - 23,9 | 20 - 24,9 |
+| Obesidade leve     | 24 - 28,9 | 25 - 29,9 |
+| Obesidade moderada | 29 - 38,9 | 30 - 39,9 |
+| Obesidade mórbida  | >=39      | >=40      |
+```
