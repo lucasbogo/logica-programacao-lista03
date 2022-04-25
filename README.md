@@ -5,7 +5,7 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 <br>
 <br>
 
-1. Faça um programa que lê um número e identifica se ele é **positivo|**, **negativo** ou **nulo**.
+1. Faça um programa que lê um número e identifica se ele é **positivo**, **negativo** ou **nulo**.
 <br>
 
 2. Ler um número e imprimir se: **'é múltiplo de 3'** ou **'não é múltiplo de 3'**.
