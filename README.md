@@ -23,13 +23,13 @@ Exercicos resolvidos em **C** para a disciplina de Lógica de Programação (IFP
 
 6. Uma empresa deseja aumentar o salário de seus funcionários de acordo com a tabela abaixo:
 
-```
-Salário atual              Aumento
-R$ 0,00 – R$ 900,00          20%
-R$ 900,01 – R$ 1.300,00      10%
-R$ 1.300,01 – R$ 1.800,00    5%
-acima de R$ 1.800,00         --
-````
+| Salario atual             | Aumento   | 
+|---------------------------|-----------|
+| R$ 0,00 – R$ 900,00       |   20%     |
+| R$ 900,01 – R$ 1.300,00   |   10%     | 
+| R$ 1.300,01 – R$ 1.800,00 |   5%      | 
+| acima de R$ 1.800,00      |   --      | 
+
 <br>
 
 7. Ler os dados de um triângulo e mostrar o seu tipo: equilátero, escaleno ou isósceles. Dica: Triângulo é uma forma geométrica composta por três lados, onde cada lado é menor que a soma dos outros lados.
